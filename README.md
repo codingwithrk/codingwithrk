@@ -1,16 +1,6 @@
 ## Hi, I'm CodingwithRK alias Raj Kumar
 ### TALL Stack developer based in INDIA
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodingwithRK&hide_title=false&hide_rank=false&show_icons=true&icon_color=ffffff&include_all_commits=true&&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodingwithRK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-<br>
-
 ## Tech Stack
 
 ![PHP](https://img.shields.io/badge/-PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white)
