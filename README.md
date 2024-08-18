@@ -1,5 +1,5 @@
-## Hi, I'm CodingwithRK alias Raj Kumar
-### TALL Stack developer based in INDIA
+<h1 align="center">CodingwithRK</h1>
+<p align="center">TALL Stack Developer</p>
 
 ## Tech Stack
 
