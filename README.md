@@ -13,6 +13,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F1553A?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Python]([https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/-Python-224a6b?style=for-the-badge&logo=python&logoColor=white))
 
 
 ## Social
