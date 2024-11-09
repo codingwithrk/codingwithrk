@@ -14,6 +14,7 @@
 ![Git](https://img.shields.io/badge/-Git-F1553A?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-224a6b?style=for-the-badge&logo=python&logoColor=white)
+![Nuxt JS](https://img.shields.io/badge/-NuxtJs-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
 
 ## Social
