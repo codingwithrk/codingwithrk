@@ -18,6 +18,13 @@
 ![Node JS](https://img.shields.io/badge/-NodeJs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
+## Contribution:
+
+![graph]
+
+[graph]: https://github-readme-activity-graph.vercel.app/graph?username=codingwithrk&theme=react-dark&hide_border=false&area=true
+
+
 ## Social
 <div> 
   <a href="https://www.youtube.com/@codingwith-rk/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
