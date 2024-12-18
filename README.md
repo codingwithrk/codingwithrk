@@ -1,6 +1,16 @@
 <h1 align="center">CodingwithRK</h1>
 <p align="center">TALL Stack Developer</p>
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/codingwithrk"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 ## Tech Stack
 
 ![PHP](https://img.shields.io/badge/-PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white)
