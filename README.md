@@ -26,6 +26,7 @@
 ![Python](https://img.shields.io/badge/-Python-224a6b?style=for-the-badge&logo=python&logoColor=white)
 ![Nuxt JS](https://img.shields.io/badge/-NuxtJs-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Node JS](https://img.shields.io/badge/-NodeJs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/-flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 
 ## Contribution:
