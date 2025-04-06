@@ -12,20 +12,31 @@
 
 ## Tech Stack
 
+### Frontend
+![Nuxt JS](https://img.shields.io/badge/-NuxtJs-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/TailwindCss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![AlpineJs](https://img.shields.io/badge/AlpineJs-77c1d2?style=for-the-badge&logo=javascript&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-fb70a9?style=for-the-badge&logo=livewire&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-eab308?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Backend
 ![PHP](https://img.shields.io/badge/-PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-fb70a9?style=for-the-badge&logo=livewire&logoColor=white)
-![AlpineJs](https://img.shields.io/badge/AlpineJs-77c1d2?style=for-the-badge&logo=javascript&logoColor=white)
-![TailwindCss](https://img.shields.io/badge/TailwindCss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-eab308?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
+![Node JS](https://img.shields.io/badge/-NodeJs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-224a6b?style=for-the-badge&logo=python&logoColor=white)
+
+### Virtual Control
 ![Git](https://img.shields.io/badge/-Git-F1553A?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-224a6b?style=for-the-badge&logo=python&logoColor=white)
-![Nuxt JS](https://img.shields.io/badge/-NuxtJs-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
-![Node JS](https://img.shields.io/badge/-NodeJs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Moible App
 ![Flutter](https://img.shields.io/badge/-flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 
 ## Contribution:
