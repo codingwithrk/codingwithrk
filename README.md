@@ -45,7 +45,7 @@
 
 ![graph]
 
-[graph]: https://github-readme-activity-graph.vercel.app/graph?username=codingwithrk&theme=react-dark&hide_border=false&area=true
+[graph]: https://github-readme-activity-graph.vercel.app/graph?username=codingwithrk&theme=github&hide_border=false&area=true
 
 
 ## Social
