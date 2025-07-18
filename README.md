@@ -1,15 +1,6 @@
 <h1 align="center">CodingwithRK</h1>
 <p align="center">TALL Stack Developer || Sr. Laravel Developer</p>
 
-<p align="center">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=codingwithrk&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/codingwithrk"
-  height="300"
-/>
-</a>
-</p>
-
 ## Tech Stack
 
 ### Frontend
@@ -46,6 +37,16 @@
 ![graph]
 
 [graph]: https://github-readme-activity-graph.vercel.app/graph?username=codingwithrk&theme=github&hide_border=false&area=true
+
+
+<p align="center">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=codingwithrk&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/codingwithrk"
+  height="300"
+/>
+</a>
+</p>
 
 
 ## Social
