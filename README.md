@@ -38,7 +38,7 @@
 
 [graph]: https://github-readme-activity-graph.vercel.app/graph?username=codingwithrk&theme=github&hide_border=false&area=true
 
-
+<!---
 <p align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=codingwithrk&utm_content=farm">
 <img
@@ -47,6 +47,7 @@
 />
 </a>
 </p>
+-->
 
 
 ## Social
