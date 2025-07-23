@@ -1,6 +1,8 @@
 <h1 align="center">CodingwithRK</h1>
 <p align="center">TALL Stack Developer || Sr. Laravel Developer</p>
 
+![](https://komarev.com/ghpvc/?username=codingwithrk&color=blueviolet&style=plastic)
+
 ## Tech Stack
 
 ### Frontend
