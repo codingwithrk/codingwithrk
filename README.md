@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![AlpineJs](https://img.shields.io/badge/AlpineJs-77c1d2?style=for-the-badge&logo=javascript&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-fb70a9?style=for-the-badge&logo=livewire&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-eab308?style=for-the-badge&logo=laravel&logoColor=f9322c)
+![Filament](https://img.shields.io/badge/Filament-eab308?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Backend
 ![PHP](https://img.shields.io/badge/-PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white)
@@ -30,7 +30,8 @@
 
 ### Mobile App
 ![Flutter](https://img.shields.io/badge/-flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![NativePHP](https://img.shields.io/badge/NativePHP-8696ed?style=for-the-badge&logo=laravel&logoColor=f9322c)
+![NativePHP](https://img.shields.io/badge/NativePHP-8696ed?style=for-the-badge&logo=laravel&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
 
