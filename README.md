@@ -31,7 +31,7 @@
 ### Mobile App
 ![Flutter](https://img.shields.io/badge/-flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![NativePHP](https://img.shields.io/badge/NativePHP-8696ed?style=for-the-badge&logo=laravel&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<!-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) -->
 
 
 
