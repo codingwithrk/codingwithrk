@@ -1,6 +1,7 @@
 <h1 align="center">CodingwithRK</h1>
 <p align="center">TALL Stack Developer || Sr. Laravel Developer</p>
 
+[![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=flat&labelColor=18181b)](https://whyphp.dev)
 ![](https://komarev.com/ghpvc/?username=codingwithrk&color=blueviolet&style=plastic)
 
 ## Tech Stack
